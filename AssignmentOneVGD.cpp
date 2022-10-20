@@ -29,7 +29,7 @@ int main()
         }
         if (mmenu_choice == 'B' || mmenu_choice == 'b')
         {
-            cout << "Shop is Currently Not Open.\n";
+            cout << "Shop is Currently Not Open SUP.\n";
          
         }
         if (mmenu_choice == 'S' || mmenu_choice == 's')
